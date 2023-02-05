@@ -8,11 +8,11 @@ Check Out https://github.com/JustHarryTools  -Old Image below-
 ![image](https://cdn.discordapp.com/attachments/1068289424502304780/1071753298803179640/image.png)
 
 # Feautres
-	🟢Logs Ip Address 
-  🟢Image Logger      
-         
+  🟢Logs Ip Address 
+  🟢Image Logger
+       
 # To Do
-	💎Better settings
+  💎Better settings
   💎More Options
 
 CREATOR: JustHarry#5308
