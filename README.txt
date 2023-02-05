@@ -1,5 +1,5 @@
-<h1 align="center">Discord IP Grabber (Beta)</h1>
-<h2 align="center">⭐ Don't forget to leave a star! ⭐</h2>
+# Discord IP Grabber (Beta)
+# ⭐ Don't forget to leave a star! ⭐
 
 **I Am not responsible for any malicious use of this program**
  
